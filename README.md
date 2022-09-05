@@ -15,7 +15,7 @@
 - Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.<br>
 - Использованные библиотеки: pandas, matplotlib, numpy, scipy.stats<br>
 
-### loans  - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/loans/loans.ipynb'> Исследование продаж компьютерных игр </a> <br>
+### loans  - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/loans/loans.ipynb'> Исследование надежности заемщиков </a> <br>
 - Необходимо разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.<br>
 - Использованные библиотеки: pandas, matplotlib<br>
 
@@ -26,3 +26,11 @@
 ### recommender_system_test - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/recommender_system_test/recommender_system_test.ipynb'> Оценка результатов А/В тестирования </a> <br>
 - Необходимо провести оценку результатов A/B теста изменений, связанных с внедрением улучшенной рекомендательной системы. Ожидаемый эффект: за 14 дней с момента регистрации в системе пользователи покажут улучшение каждой метрики не менее, чем на 10%.<br>
 - Использованные библиотеки: pandas, numpy, scipy, plotly.graph_object, matplotlib<br>
+
+### robocafe - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/robocafe/food_market.ipynb'> Рынок заведений общественного питания Москвы </a> <br>
+- Для оценки долгосрочной прибыльности проекта по открытию кафе с роботами-официантами, необходимо оценить текущее положение на рынке общепита. Сформулировать критерии успешности заведений, понять, соответствует ли проект данным критериям. Для анализа будут использованы открытые данные обо всех заведениях в Москве.<br>
+- Использованные библиотеки: pandas, matplotlib.pyplot, seaborn<br>
+
+### robocafe - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/space_brothers/space_brothers.ipynb'> Анализ рекламных источников мобильной игры </a> <br>
+- На основании данных о событиях, совершаемых игроками в мобильной игре, необходимо сформулировать предложения по монетизации.<br>
+- Использованные библиотеки: pandas, matplotlib.pyplot, seaborn, scipy, plotly <br>
