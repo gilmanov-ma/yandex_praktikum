@@ -31,6 +31,6 @@
 - Для оценки долгосрочной прибыльности проекта по открытию кафе с роботами-официантами, необходимо оценить текущее положение на рынке общепита. Сформулировать критерии успешности заведений, понять, соответствует ли проект данным критериям. Для анализа будут использованы открытые данные обо всех заведениях в Москве.<br>
 - Использованные библиотеки: pandas, matplotlib.pyplot, seaborn<br>
 
-### robocafe - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/space_brothers/space_brothers.ipynb'> Анализ рекламных источников мобильной игры </a> <br>
+### space_brothers - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/space_brothers/space_brothers.ipynb'> Анализ рекламных источников мобильной игры </a> <br>
 - На основании данных о событиях, совершаемых игроками в мобильной игре, необходимо сформулировать предложения по монетизации.<br>
 - Использованные библиотеки: pandas, matplotlib.pyplot, seaborn, scipy, plotly <br>
