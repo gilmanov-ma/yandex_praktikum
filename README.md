@@ -8,3 +8,8 @@ pandas, matplotlib, numpy, scipy.stats<br>
 - Заказчик подготовил информацию в csv-файлах на основе клиентских анкет, которые содержат данные на месяц до оттока и факт оттока на определённый месяц. Необходимо сформулировать предложения по снижению оттока клиентов.<br>
 - Использованные библиотеки:<br>
 pandas, matplotlib, numpy, sklearn<br>
+
+### food_delivery  - <a href= 'https://github.com/gilmanov-ma/yandex_praktikum/blob/main/food_delivery/food_delivery.ipynb'> A/A/B-тест мобильного приложения </a> <br>
+- Необходимо выяснить, влияет ли изменение шрифта в мобильном приложении по доставке еды на поведение пользователей. Пользователей разбили на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми.<br>
+- Использованные библиотеки:<br>
+pandas, matplotlib, numpy, scipy.stats, plotly.graph, plotly.express, seaborn<br>
