@@ -3,18 +3,22 @@
 - Необходимо приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.<br>
 - Использованные библиотеки: pandas, matplotlib, numpy, scipy.stats<br>
 
-### fitness  - <a href= 'https://github.com/gilmanov-ma/yandex_praktikum/blob/main/fitness/fitness.ipynb'> Cтратегия взаимодействия с клиентами сети фитнес-центров </a> <br>
+### fitness  - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/fitness/fitness.ipynb'> Cтратегия взаимодействия с клиентами сети фитнес-центров </a> <br>
 - Заказчик подготовил информацию в csv-файлах на основе клиентских анкет, которые содержат данные на месяц до оттока и факт оттока на определённый месяц. Необходимо сформулировать предложения по снижению оттока клиентов.<br>
 - Использованные библиотеки: pandas, matplotlib, numpy, sklearn<br>
 
 
-### food_delivery  - <a href= 'https://github.com/gilmanov-ma/yandex_praktikum/blob/main/food_delivery/food_delivery.ipynb'> A/A/B-тест мобильного приложения </a> <br>
+### food_delivery  - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/food_delivery/food_delivery.ipynb'> A/A/B-тест мобильного приложения </a> <br>
 - Необходимо выяснить, влияет ли изменение шрифта в мобильном приложении по доставке еды на поведение пользователей. Пользователей разбили на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми.<br>
 - Использованные библиотеки: pandas, matplotlib, numpy, scipy.stats, plotly.graph, plotly.express, seaborn<br>
 
 
-### games_market  - <a href= 'https://github.com/gilmanov-ma/yandex_praktikum/blob/main/games_market/games.ipynb'> Исследование продаж компьютерных игр </a> <br>
+### games_market  - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/games_market/games.ipynb'> Исследование продаж компьютерных игр </a> <br>
 - Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.<br>
 - Использованные библиотеки: pandas, matplotlib, numpy, scipy.stats<br>
+
+### loans  - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/loans/loans.ipynb'> Исследование продаж компьютерных игр </a> <br>
+- Необходимо разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. В данном проекте основной задачей было провести качественную предобработку данных.<br>
+- Использованные библиотеки: pandas, matplotlib<br>
 
 
