@@ -19,8 +19,10 @@
 - Необходимо разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.<br>
 - Использованные библиотеки: pandas, matplotlib<br>
 
-### mobile_tariff  - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/mobile_tariff/megaline.ipynb'> Исследование продаж компьютерных игр </a> <br>
+### mobile_tariff  - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/mobile_tariff/megaline.ipynb'> Определение перспективного тарифа для оператора мобильной связи</a> <br>
 - Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.<br>
 - Использованные библиотеки: pandas, numpy, scipy<br>
 
-
+### recommender_system_test - <a href='https://github.com/gilmanov-ma/yandex_praktikum/blob/main/recommender_system_test/recommender_system_test.ipynb'> Оценка результатов А/В тестирования </a> <br>
+- Необходимо провести оценку результатов A/B теста изменений, связанных с внедрением улучшенной рекомендательной системы. Ожидаемый эффект: за 14 дней с момента регистрации в системе пользователи покажут улучшение каждой метрики не менее, чем на 10%.<br>
+- Использованные библиотеки: pandas, numpy, scipy, plotly.graph_object, matplotlib<br>
