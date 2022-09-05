@@ -13,3 +13,9 @@ pandas, matplotlib, numpy, sklearn<br>
 - Необходимо выяснить, влияет ли изменение шрифта в мобильном приложении по доставке еды на поведение пользователей. Пользователей разбили на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми.<br>
 - Использованные библиотеки:<br>
 pandas, matplotlib, numpy, scipy.stats, plotly.graph, plotly.express, seaborn<br>
+
+### games_market  - <a href= 'https://github.com/gilmanov-ma/yandex_praktikum/blob/main/games_market/games.ipynb'> Исследование продаж компьютерных игр </a> <br>
+- Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.<br>
+- Использованные библиотеки:<br>
+pandas, matplotlib, numpy, scipy.stats<br>
+
